@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>V SCREEN</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Thu, 21 Oct 2021 08:48:24 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[(예고) '강릉' 무비토크 라이브]]></title>
+            <link>https://www.vlive.tv/post/0-26088725</link>
+            <guid>https://www.vlive.tv/post/0-26088725</guid>
+            <pubDate>Thu, 21 Oct 2021 08:48:14 GMT</pubDate>
+            <content:encoded><![CDATA[1시간 전]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211021_252/16347994650113dxEh_PNG/upload_5106907204984649021c2d164-abe5-43f0-903b-5d1929f249c5.png?type=f359x202" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[(FULL) '2021 부일영화상' 부일영화상 시상식]]></title>
+            <link>https://www.vlive.tv/post/1-25793825</link>
+            <guid>https://www.vlive.tv/post/1-25793825</guid>
+            <pubDate>Thu, 21 Oct 2021 08:48:14 GMT</pubDate>
+            <content:encoded><![CDATA[10.15.]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211015_187/1634291350991yOdx4_JPEG/upload_78371086398160762f362f453-dd17-4787-9847-d3985716df13.jpg?type=f359x202" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[(FULL) '2021 부일영화상' 핸드프리팅 & 레드카펫]]></title>
+            <link>https://www.vlive.tv/post/0-25786399</link>
+            <guid>https://www.vlive.tv/post/0-25786399</guid>
+            <pubDate>Thu, 21 Oct 2021 08:48:14 GMT</pubDate>
+            <content:encoded><![CDATA[10.15.]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211015_66/16342877360343fnHn_JPEG/upload_78367471446384432b6640092-b1eb-4c9a-ae9f-0b04ad4f998a.jpg?type=f359x202" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[(FULL) '2021 부일영화상' 올해의 스타와의 토크]]></title>
+            <link>https://www.vlive.tv/post/0-25786384</link>
+            <guid>https://www.vlive.tv/post/0-25786384</guid>
+            <pubDate>Thu, 21 Oct 2021 08:48:14 GMT</pubDate>
+            <content:encoded><![CDATA[10.15.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[(FULL) 이동진 평론가 X 이혜성 아나운서 '라스트 듀얼: 최후의 결투' 무비토크]]></title>
+            <link>https://www.vlive.tv/post/1-25794477</link>
+            <guid>https://www.vlive.tv/post/1-25794477</guid>
+            <pubDate>Thu, 21 Oct 2021 08:48:14 GMT</pubDate>
+            <content:encoded><![CDATA[10.12.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[(FULL) '기적'배 장학퀴즈! 무비토크 라이브]]></title>
+            <link>https://www.vlive.tv/post/1-25001517</link>
+            <guid>https://www.vlive.tv/post/1-25001517</guid>
+            <pubDate>Thu, 21 Oct 2021 08:48:14 GMT</pubDate>
+            <content:encoded><![CDATA[9.9.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[(FULL) '보이스' 무비토크 라이브]]></title>
+            <link>https://www.vlive.tv/post/0-24961828</link>
+            <guid>https://www.vlive.tv/post/0-24961828</guid>
+            <pubDate>Thu, 21 Oct 2021 08:48:14 GMT</pubDate>
+            <content:encoded><![CDATA[9.3.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[(예고) '기적'배 장학퀴즈! 무비토크 라이브]]></title>
+            <link>https://www.vlive.tv/post/1-25001483</link>
+            <guid>https://www.vlive.tv/post/1-25001483</guid>
+            <pubDate>Thu, 21 Oct 2021 08:48:14 GMT</pubDate>
+            <content:encoded><![CDATA[8.27.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[(예고) '보이스' 무비토크 라이브]]></title>
+            <link>https://www.vlive.tv/post/0-24962556</link>
+            <guid>https://www.vlive.tv/post/0-24962556</guid>
+            <pubDate>Thu, 21 Oct 2021 08:48:14 GMT</pubDate>
+            <content:encoded><![CDATA[8.25.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[(FULL) '싱크홀' THANK YOU ALL 무비토크 라이브]]></title>
+            <link>https://www.vlive.tv/post/1-24725420</link>
+            <guid>https://www.vlive.tv/post/1-24725420</guid>
+            <pubDate>Thu, 21 Oct 2021 08:48:14 GMT</pubDate>
+            <content:encoded><![CDATA[8.23.]]></content:encoded>
+        </item>
+    </channel>
+</rss>
