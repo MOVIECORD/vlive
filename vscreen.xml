@@ -4,9 +4,17 @@
         <title>V SCREEN</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 26 Oct 2021 11:37:11 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Oct 2021 12:58:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['강릉' 무비토크 라이브]]></title>
+            <link>https://www.vlive.tv/post/0-26088783</link>
+            <guid>https://www.vlive.tv/post/0-26088783</guid>
+            <pubDate>Tue, 26 Oct 2021 12:58:46 GMT</pubDate>
+            <content:encoded><![CDATA[1시간 전]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211021_155/1634799981354ns7JT_JPEG/upload_7887971677942830227acb461-0b47-42d1-9460-ba38478fa052.jpg?type=f359x202" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[(예고) '강릉' 무비토크 라이브]]></title>
             <link>https://www.vlive.tv/post/0-26088725</link>
@@ -29,7 +37,6 @@
             <guid>https://www.vlive.tv/post/0-25786399</guid>
             <pubDate>Thu, 21 Oct 2021 08:48:14 GMT</pubDate>
             <content:encoded><![CDATA[10.15.]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211015_66/16342877360343fnHn_JPEG/upload_78367471446384432b6640092-b1eb-4c9a-ae9f-0b04ad4f998a.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[(FULL) '2021 부일영화상' 올해의 스타와의 토크]]></title>
