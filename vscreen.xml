@@ -4,9 +4,17 @@
         <title>V SCREEN</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 29 Oct 2021 05:37:30 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Oct 2021 06:47:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[(예고) '연애 빠진 로맨스' 무비토크 라이브]]></title>
+            <link>https://www.vlive.tv/post/1-26223751</link>
+            <guid>https://www.vlive.tv/post/1-26223751</guid>
+            <pubDate>Fri, 29 Oct 2021 06:47:13 GMT</pubDate>
+            <content:encoded><![CDATA[47분 전]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211029_55/1635485358936McQ87_PNG/upload_79565094280059326fb992c82-3f03-489a-8ac8-ea0646112904.png?type=f359x202" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[(FULL) '강릉' 무비토크 라이브]]></title>
             <link>https://www.vlive.tv/post/0-26088783</link>
@@ -29,7 +37,6 @@
             <guid>https://www.vlive.tv/post/1-25793825</guid>
             <pubDate>Thu, 21 Oct 2021 08:48:14 GMT</pubDate>
             <content:encoded><![CDATA[10.15.]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211015_187/1634291350991yOdx4_JPEG/upload_78371086398160762f362f453-dd17-4787-9847-d3985716df13.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[(FULL) '2021 부일영화상' 핸드프리팅 & 레드카펫]]></title>
@@ -79,13 +86,6 @@
             <guid>https://www.vlive.tv/post/0-24962556</guid>
             <pubDate>Thu, 21 Oct 2021 08:48:14 GMT</pubDate>
             <content:encoded><![CDATA[8.25.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[(FULL) '싱크홀' THANK YOU ALL 무비토크 라이브]]></title>
-            <link>https://www.vlive.tv/post/1-24725420</link>
-            <guid>https://www.vlive.tv/post/1-24725420</guid>
-            <pubDate>Thu, 21 Oct 2021 08:48:14 GMT</pubDate>
-            <content:encoded><![CDATA[8.23.]]></content:encoded>
         </item>
     </channel>
 </rss>

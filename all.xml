@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 29 Oct 2021 05:37:30 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Oct 2021 06:47:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['고스트버스터즈 라이즈' 메인 예고편 (V MOVIE)]]></title>
+            <link>https://www.vlive.tv/post/0-26217704</link>
+            <guid>https://www.vlive.tv/post/0-26217704</guid>
+            <pubDate>Fri, 29 Oct 2021 06:46:57 GMT</pubDate>
+            <content:encoded><![CDATA[32분 전]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211029_236/16354880507352K1oJ_JPEG/fba0c529-37d2-11ec-8636-505dac8c3639_06.jpg?type=f359x202" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[(예고) '연애 빠진 로맨스' 무비토크 라이브 (V MOVIE)]]></title>
+            <link>https://www.vlive.tv/post/1-26223751</link>
+            <guid>https://www.vlive.tv/post/1-26223751</guid>
+            <pubDate>Fri, 29 Oct 2021 06:46:57 GMT</pubDate>
+            <content:encoded><![CDATA[46분 전]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211029_55/1635485358936McQ87_PNG/upload_79565094280059326fb992c82-3f03-489a-8ac8-ea0646112904.png?type=f359x202" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[(FULL) '강릉' 무비토크 라이브 (V MOVIE)]]></title>
             <link>https://www.vlive.tv/post/0-26088783</link>
@@ -21,7 +37,6 @@
             <guid>https://www.vlive.tv/post/1-26165786</guid>
             <pubDate>Mon, 25 Oct 2021 08:42:53 GMT</pubDate>
             <content:encoded><![CDATA[10.25.]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211025_154/1635147613369yFqD2_JPEG/c734556c-3564-11ec-9ee0-a0369ff94ed0_09.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[(예고) '강릉' 무비토크 라이브 (V MOVIE)]]></title>
@@ -29,7 +44,6 @@
             <guid>https://www.vlive.tv/post/0-26088725</guid>
             <pubDate>Thu, 21 Oct 2021 08:47:58 GMT</pubDate>
             <content:encoded><![CDATA[10.21.]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211021_252/16347994650113dxEh_PNG/upload_5106907204984649021c2d164-abe5-43f0-903b-5d1929f249c5.png?type=f359x202" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA['애프터: 관계의 함정' 10분 하이라이트 (V MOVIE)]]></title>
@@ -93,20 +107,6 @@
             <guid>https://www.vlive.tv/post/1-25001517</guid>
             <pubDate>Thu, 21 Oct 2021 08:47:58 GMT</pubDate>
             <content:encoded><![CDATA[9.9.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[(FULL) '보이스' 무비토크 라이브 (V MOVIE)]]></title>
-            <link>https://www.vlive.tv/post/0-24961828</link>
-            <guid>https://www.vlive.tv/post/0-24961828</guid>
-            <pubDate>Thu, 21 Oct 2021 08:47:58 GMT</pubDate>
-            <content:encoded><![CDATA[9.3.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA['리스펙트' 'Think' 뮤직 클립 (V MOVIE)]]></title>
-            <link>https://www.vlive.tv/post/1-25148027</link>
-            <guid>https://www.vlive.tv/post/1-25148027</guid>
-            <pubDate>Thu, 21 Oct 2021 08:47:58 GMT</pubDate>
-            <content:encoded><![CDATA[9.2.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[<단편애니메이션 기획전 : ANI WHERE> 섹션5 작품 소개 (V MOVIE - Notice)]]></title>
@@ -252,6 +252,14 @@
             <content:encoded><![CDATA[Jan 10, 2020]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[(예고) '연애 빠진 로맨스' 무비토크 라이브 (V SCREEN)]]></title>
+            <link>https://www.vlive.tv/post/1-26223751</link>
+            <guid>https://www.vlive.tv/post/1-26223751</guid>
+            <pubDate>Fri, 29 Oct 2021 06:47:13 GMT</pubDate>
+            <content:encoded><![CDATA[47분 전]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211029_55/1635485358936McQ87_PNG/upload_79565094280059326fb992c82-3f03-489a-8ac8-ea0646112904.png?type=f359x202" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[(FULL) '강릉' 무비토크 라이브 (V SCREEN)]]></title>
             <link>https://www.vlive.tv/post/0-26088783</link>
             <guid>https://www.vlive.tv/post/0-26088783</guid>
@@ -273,7 +281,6 @@
             <guid>https://www.vlive.tv/post/1-25793825</guid>
             <pubDate>Thu, 21 Oct 2021 08:47:58 GMT</pubDate>
             <content:encoded><![CDATA[10.15.]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211015_187/1634291350991yOdx4_JPEG/upload_78371086398160762f362f453-dd17-4787-9847-d3985716df13.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[(FULL) '2021 부일영화상' 핸드프리팅 & 레드카펫 (V SCREEN)]]></title>
@@ -323,13 +330,6 @@
             <guid>https://www.vlive.tv/post/0-24962556</guid>
             <pubDate>Thu, 21 Oct 2021 08:48:14 GMT</pubDate>
             <content:encoded><![CDATA[8.25.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[(FULL) '싱크홀' THANK YOU ALL 무비토크 라이브 (V SCREEN)]]></title>
-            <link>https://www.vlive.tv/post/1-24725420</link>
-            <guid>https://www.vlive.tv/post/1-24725420</guid>
-            <pubDate>Thu, 21 Oct 2021 08:48:14 GMT</pubDate>
-            <content:encoded><![CDATA[8.23.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[<단편애니메이션 기획전 : ANI WHERE> 섹션5 작품 소개 (V SCREEN)]]></title>
