@@ -4,9 +4,17 @@
         <title>V MOVIE</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 02 Nov 2021 02:50:18 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 Nov 2021 03:41:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[(FULL) '연애 빠진 로맨스' 무비토크 라이브]]></title>
+            <link>https://www.vlive.tv/post/1-26183044</link>
+            <guid>https://www.vlive.tv/post/1-26183044</guid>
+            <pubDate>Tue, 02 Nov 2021 03:40:58 GMT</pubDate>
+            <content:encoded><![CDATA[7분 전]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211102_115/1635822127571mNa4i_JPEG/upload_799018629971356926d975960-bda7-4097-bd0b-ee7e73057df3.jpg?type=f359x202" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['연애 빠진 로맨스' 캐릭터 프로필 영상]]></title>
             <link>https://www.vlive.tv/post/0-26219891</link>
@@ -29,7 +37,6 @@
             <guid>https://www.vlive.tv/post/1-26223751</guid>
             <pubDate>Fri, 29 Oct 2021 06:46:57 GMT</pubDate>
             <content:encoded><![CDATA[10.29.]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211029_55/1635485358936McQ87_PNG/upload_79565094280059326fb992c82-3f03-489a-8ac8-ea0646112904.png?type=f359x202" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[(FULL) '강릉' 무비토크 라이브]]></title>
@@ -100,13 +107,6 @@
             <guid>https://www.vlive.tv/post/0-25655544</guid>
             <pubDate>Thu, 21 Oct 2021 08:47:58 GMT</pubDate>
             <content:encoded><![CDATA[9.27.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA['007 노 타임 투 다이' 운명의 적 사핀 영상]]></title>
-            <link>https://www.vlive.tv/post/1-25373563</link>
-            <guid>https://www.vlive.tv/post/1-25373563</guid>
-            <pubDate>Mon, 01 Nov 2021 13:41:55 GMT</pubDate>
-            <content:encoded><![CDATA[9.13.]]></content:encoded>
         </item>
     </channel>
 </rss>
