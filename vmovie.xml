@@ -4,9 +4,17 @@
         <title>V MOVIE</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 03 Nov 2021 03:41:39 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 Nov 2021 04:50:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['모비우스' 2차 예고편]]></title>
+            <link>https://www.vlive.tv/post/1-26297745</link>
+            <guid>https://www.vlive.tv/post/1-26297745</guid>
+            <pubDate>Wed, 03 Nov 2021 04:50:02 GMT</pubDate>
+            <content:encoded><![CDATA[1시간 전]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211103_74/1635911042702I1iAE_JPEG/b61111bc-3c43-11ec-8140-a0369ff963bc_06.jpg?type=f359x202" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[(FULL) '연애 빠진 로맨스' 무비토크 라이브]]></title>
             <link>https://www.vlive.tv/post/1-26183044</link>
@@ -29,7 +37,6 @@
             <guid>https://www.vlive.tv/post/0-26217704</guid>
             <pubDate>Fri, 29 Oct 2021 06:46:57 GMT</pubDate>
             <content:encoded><![CDATA[10.29.]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211029_236/16354880507352K1oJ_JPEG/fba0c529-37d2-11ec-8636-505dac8c3639_06.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[(예고) '연애 빠진 로맨스' 무비토크 라이브]]></title>
