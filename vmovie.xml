@@ -4,9 +4,17 @@
         <title>V MOVIE</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 12 Nov 2021 01:38:43 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 Nov 2021 02:50:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['킹메이커' 런칭예고편: 선거전쟁]]></title>
+            <link>https://www.vlive.tv/post/0-26413339</link>
+            <guid>https://www.vlive.tv/post/0-26413339</guid>
+            <pubDate>Fri, 12 Nov 2021 02:49:59 GMT</pubDate>
+            <content:encoded><![CDATA[55분 전]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211112_110/1636682081964NfTnV_JPEG/77dc294a-41f6-11ec-ba2c-505dac8c385b_10.jpg?type=f359x202" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[(예고) '장르만 로맨스' 무비토크 라이브]]></title>
             <link>https://www.vlive.tv/post/1-26382461</link>
@@ -29,7 +37,6 @@
             <guid>https://www.vlive.tv/post/1-26297745</guid>
             <pubDate>Wed, 03 Nov 2021 04:50:02 GMT</pubDate>
             <content:encoded><![CDATA[11.3.]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211103_74/1635911042702I1iAE_JPEG/b61111bc-3c43-11ec-8140-a0369ff963bc_06.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[(FULL) '연애 빠진 로맨스' 무비토크 라이브]]></title>
@@ -121,13 +128,6 @@
             <guid>https://www.vlive.tv/post/1-25794477</guid>
             <pubDate>Thu, 21 Oct 2021 08:47:58 GMT</pubDate>
             <content:encoded><![CDATA[10.12.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA['007 노 타임 투 다이' 007 레거시 영상]]></title>
-            <link>https://www.vlive.tv/post/0-25655544</link>
-            <guid>https://www.vlive.tv/post/0-25655544</guid>
-            <pubDate>Thu, 21 Oct 2021 08:47:58 GMT</pubDate>
-            <content:encoded><![CDATA[9.27.]]></content:encoded>
         </item>
     </channel>
 </rss>
