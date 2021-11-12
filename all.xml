@@ -4,15 +4,23 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 12 Nov 2021 08:44:14 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 Nov 2021 09:41:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[(예고) '유체이탈자' 무비토크 라이브 (V MOVIE)]]></title>
+            <link>https://www.vlive.tv/post/0-26417401</link>
+            <guid>https://www.vlive.tv/post/0-26417401</guid>
+            <pubDate>Fri, 12 Nov 2021 09:40:49 GMT</pubDate>
+            <content:encoded><![CDATA[40분 전]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211112_57/1636707507420mGnII_JPEG/20a481c6-4396-11ec-a3dc-246e963a464c_07.jpg?type=f359x202" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['킹메이커' 런칭예고편: 선거전쟁 (V MOVIE)]]></title>
             <link>https://www.vlive.tv/post/0-26413339</link>
             <guid>https://www.vlive.tv/post/0-26413339</guid>
             <pubDate>Fri, 12 Nov 2021 02:49:59 GMT</pubDate>
-            <content:encoded><![CDATA[6시간 전]]></content:encoded>
+            <content:encoded><![CDATA[7시간 전]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211112_110/1636682081964NfTnV_JPEG/77dc294a-41f6-11ec-ba2c-505dac8c385b_10.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -29,7 +37,6 @@
             <guid>https://www.vlive.tv/post/0-26293689</guid>
             <pubDate>Wed, 03 Nov 2021 07:37:47 GMT</pubDate>
             <content:encoded><![CDATA[11.3.]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211103_152/1635924418821bxhKd_PNG/1635919376992.png?type=f359x202" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA['모비우스' 2차 예고편 (V MOVIE)]]></title>
@@ -273,6 +280,14 @@
             <content:encoded><![CDATA[Jan 10, 2020]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[(예고) '유체이탈자' 무비토크 라이브 (V SCREEN)]]></title>
+            <link>https://www.vlive.tv/post/0-26417401</link>
+            <guid>https://www.vlive.tv/post/0-26417401</guid>
+            <pubDate>Fri, 12 Nov 2021 09:41:06 GMT</pubDate>
+            <content:encoded><![CDATA[41분 전]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211112_57/1636707507420mGnII_JPEG/20a481c6-4396-11ec-a3dc-246e963a464c_07.jpg?type=f359x202" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[(예고) '장르만 로맨스' 무비토크 라이브 (V SCREEN)]]></title>
             <link>https://www.vlive.tv/post/1-26382461</link>
             <guid>https://www.vlive.tv/post/1-26382461</guid>
@@ -294,7 +309,6 @@
             <guid>https://www.vlive.tv/post/1-26223751</guid>
             <pubDate>Fri, 29 Oct 2021 06:46:57 GMT</pubDate>
             <content:encoded><![CDATA[10.29.]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211029_55/1635485358936McQ87_PNG/upload_79565094280059326fb992c82-3f03-489a-8ac8-ea0646112904.png?type=f359x202" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[(FULL) '강릉' 무비토크 라이브 (V SCREEN)]]></title>

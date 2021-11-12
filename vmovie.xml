@@ -4,15 +4,23 @@
         <title>V MOVIE</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 12 Nov 2021 08:44:14 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 Nov 2021 09:41:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[(예고) '유체이탈자' 무비토크 라이브]]></title>
+            <link>https://www.vlive.tv/post/0-26417401</link>
+            <guid>https://www.vlive.tv/post/0-26417401</guid>
+            <pubDate>Fri, 12 Nov 2021 09:40:49 GMT</pubDate>
+            <content:encoded><![CDATA[40분 전]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211112_57/1636707507420mGnII_JPEG/20a481c6-4396-11ec-a3dc-246e963a464c_07.jpg?type=f359x202" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['킹메이커' 런칭예고편: 선거전쟁]]></title>
             <link>https://www.vlive.tv/post/0-26413339</link>
             <guid>https://www.vlive.tv/post/0-26413339</guid>
             <pubDate>Fri, 12 Nov 2021 02:49:59 GMT</pubDate>
-            <content:encoded><![CDATA[6시간 전]]></content:encoded>
+            <content:encoded><![CDATA[7시간 전]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211112_110/1636682081964NfTnV_JPEG/77dc294a-41f6-11ec-ba2c-505dac8c385b_10.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -29,7 +37,6 @@
             <guid>https://www.vlive.tv/post/0-26293689</guid>
             <pubDate>Wed, 03 Nov 2021 07:37:47 GMT</pubDate>
             <content:encoded><![CDATA[11.3.]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211103_152/1635924418821bxhKd_PNG/1635919376992.png?type=f359x202" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA['모비우스' 2차 예고편]]></title>
