@@ -4,17 +4,9 @@
         <title>V SCREEN</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 15 Nov 2021 13:41:17 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 15 Nov 2021 14:38:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA['장르만 로맨스' 무비토크 라이브]]></title>
-            <link>https://www.vlive.tv/post/1-26382701</link>
-            <guid>https://www.vlive.tv/post/1-26382701</guid>
-            <pubDate>Mon, 15 Nov 2021 12:59:28 GMT</pubDate>
-            <content:encoded><![CDATA[1시간 전]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211109_141/1636445161895V8OGH_JPEG/upload_805248973063212315fb82486-7f19-4082-892c-b4f7900830dd.jpg?type=f359x202" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[(예고) '유체이탈자' 무비토크 라이브]]></title>
             <link>https://www.vlive.tv/post/0-26417401</link>
@@ -37,6 +29,7 @@
             <guid>https://www.vlive.tv/post/1-26183044</guid>
             <pubDate>Tue, 02 Nov 2021 03:41:14 GMT</pubDate>
             <content:encoded><![CDATA[11.2.]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211102_115/1635822127571mNa4i_JPEG/upload_799018629971356926d975960-bda7-4097-bd0b-ee7e73057df3.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[(예고) '연애 빠진 로맨스' 무비토크 라이브]]></title>
