@@ -4,9 +4,25 @@
         <title>V MOVIE</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 17 Nov 2021 01:38:08 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 Nov 2021 02:49:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[(FULL) '장르만 로맨스' 무비토크 라이브]]></title>
+            <link>https://www.vlive.tv/post/1-26382701</link>
+            <guid>https://www.vlive.tv/post/1-26382701</guid>
+            <pubDate>Wed, 17 Nov 2021 02:49:35 GMT</pubDate>
+            <content:encoded><![CDATA[12분 전]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211117_136/1637114832711pBFFE_JPEG/upload_81194568106702481304c5114-e2d4-4b34-ab85-eea8a0a263be.jpg?type=f359x202" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['스파이더맨: 노 웨이 홈' 2차 예고편]]></title>
+            <link>https://www.vlive.tv/post/0-26484458</link>
+            <guid>https://www.vlive.tv/post/0-26484458</guid>
+            <pubDate>Wed, 17 Nov 2021 02:49:35 GMT</pubDate>
+            <content:encoded><![CDATA[16분 전]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211117_216/1637116407677BCjSl_PNG/1637113781720.png?type=f359x202" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[(예고) '유체이탈자' 무비토크 라이브]]></title>
             <link>https://www.vlive.tv/post/0-26417401</link>
@@ -21,7 +37,6 @@
             <guid>https://www.vlive.tv/post/0-26413339</guid>
             <pubDate>Fri, 12 Nov 2021 02:49:59 GMT</pubDate>
             <content:encoded><![CDATA[11.12.]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211112_110/1636682081964NfTnV_JPEG/77dc294a-41f6-11ec-ba2c-505dac8c385b_10.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[(예고) '장르만 로맨스' 무비토크 라이브]]></title>
@@ -29,7 +44,6 @@
             <guid>https://www.vlive.tv/post/1-26382461</guid>
             <pubDate>Tue, 09 Nov 2021 08:43:52 GMT</pubDate>
             <content:encoded><![CDATA[11.9.]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211109_175/1636446552393cpcAm_JPEG/c6094bb5-4136-11ec-9e9c-48df379cc9e4_08.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['타임 이즈 업' 10분 하이라이트]]></title>
