@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 19 Nov 2021 11:37:19 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 Nov 2021 12:58:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['유체이탈자' 무비토크 라이브 (V MOVIE)]]></title>
+            <link>https://www.vlive.tv/post/0-26402854</link>
+            <guid>https://www.vlive.tv/post/0-26402854</guid>
+            <pubDate>Fri, 19 Nov 2021 12:58:00 GMT</pubDate>
+            <content:encoded><![CDATA[1시간 전]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211111_214/1636611965677LJxoC_JPEG/upload_806917010874423118fe02918-e768-4f18-ab76-8d7504fd3c1b.jpg?type=f359x202" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[(FULL) '장르만 로맨스' 무비토크 라이브 (V MOVIE)]]></title>
             <link>https://www.vlive.tv/post/1-26382701</link>
@@ -29,7 +37,6 @@
             <guid>https://www.vlive.tv/post/0-26417401</guid>
             <pubDate>Fri, 12 Nov 2021 09:40:49 GMT</pubDate>
             <content:encoded><![CDATA[11.12.]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211112_57/1636707507420mGnII_JPEG/20a481c6-4396-11ec-a3dc-246e963a464c_07.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['킹메이커' 런칭예고편: 선거전쟁 (V MOVIE)]]></title>
@@ -142,13 +149,6 @@
             <guid>https://www.vlive.tv/post/1-25984790</guid>
             <pubDate>Thu, 21 Oct 2021 08:47:58 GMT</pubDate>
             <content:encoded><![CDATA[10.14.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[(FULL) 이동진 평론가 X 이혜성 아나운서 '라스트 듀얼: 최후의 결투' 무비토크 (V MOVIE)]]></title>
-            <link>https://www.vlive.tv/post/1-25794477</link>
-            <guid>https://www.vlive.tv/post/1-25794477</guid>
-            <pubDate>Thu, 21 Oct 2021 08:47:58 GMT</pubDate>
-            <content:encoded><![CDATA[10.12.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[<단편애니메이션 기획전 : ANI WHERE> 섹션5 작품 소개 (V MOVIE - Notice)]]></title>
@@ -294,6 +294,14 @@
             <content:encoded><![CDATA[Jan 10, 2020]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA['유체이탈자' 무비토크 라이브 (V SCREEN)]]></title>
+            <link>https://www.vlive.tv/post/0-26402854</link>
+            <guid>https://www.vlive.tv/post/0-26402854</guid>
+            <pubDate>Fri, 19 Nov 2021 12:58:15 GMT</pubDate>
+            <content:encoded><![CDATA[1시간 전]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211111_214/1636611965677LJxoC_JPEG/upload_806917010874423118fe02918-e768-4f18-ab76-8d7504fd3c1b.jpg?type=f359x202" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[(FULL) '장르만 로맨스' 무비토크 라이브 (V SCREEN)]]></title>
             <link>https://www.vlive.tv/post/1-26382701</link>
             <guid>https://www.vlive.tv/post/1-26382701</guid>
@@ -315,7 +323,6 @@
             <guid>https://www.vlive.tv/post/1-26382461</guid>
             <pubDate>Tue, 09 Nov 2021 08:43:52 GMT</pubDate>
             <content:encoded><![CDATA[11.9.]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211109_175/1636446552393cpcAm_JPEG/c6094bb5-4136-11ec-9e9c-48df379cc9e4_08.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[(FULL) '연애 빠진 로맨스' 무비토크 라이브 (V SCREEN)]]></title>
