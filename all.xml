@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 28 Nov 2021 23:39:59 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 29 Nov 2021 01:38:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -12,7 +12,7 @@
             <link>https://www.vlive.tv/post/0-26617318</link>
             <guid>https://www.vlive.tv/post/0-26617318</guid>
             <pubDate>Sun, 28 Nov 2021 15:43:07 GMT</pubDate>
-            <content:encoded><![CDATA[8시간 전]]></content:encoded>
+            <content:encoded><![CDATA[10시간 전]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211126_240/1637909319516dgGG7_JPEG/4495ddeb-4e82-11ec-ba2c-505dac8c385b_09.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -20,7 +20,7 @@
             <link>https://www.vlive.tv/post/0-26617995</link>
             <guid>https://www.vlive.tv/post/0-26617995</guid>
             <pubDate>Sun, 28 Nov 2021 15:43:07 GMT</pubDate>
-            <content:encoded><![CDATA[8시간 전]]></content:encoded>
+            <content:encoded><![CDATA[10시간 전]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211126_4/1637913002350aeD2q_JPEG/2a817393-4e8b-11ec-a979-48df37ae3dc4_06.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -28,7 +28,7 @@
             <link>https://www.vlive.tv/post/0-26617808</link>
             <guid>https://www.vlive.tv/post/0-26617808</guid>
             <pubDate>Sun, 28 Nov 2021 15:43:07 GMT</pubDate>
-            <content:encoded><![CDATA[8시간 전]]></content:encoded>
+            <content:encoded><![CDATA[10시간 전]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211126_52/1637911974418R2clm_JPEG/2e90c19d-4e88-11ec-9d5b-a0369ff94f34_06.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -36,14 +36,14 @@
             <link>https://www.vlive.tv/post/0-26617571</link>
             <guid>https://www.vlive.tv/post/0-26617571</guid>
             <pubDate>Sun, 28 Nov 2021 15:43:07 GMT</pubDate>
-            <content:encoded><![CDATA[8시간 전]]></content:encoded>
+            <content:encoded><![CDATA[10시간 전]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[네이버 인디극장 : 우리 구면 아닌가요?] '뎀프시롤:참회록' 정혁기X조현철 (V MOVIE)]]></title>
             <link>https://www.vlive.tv/post/1-26623456</link>
             <guid>https://www.vlive.tv/post/1-26623456</guid>
             <pubDate>Sun, 28 Nov 2021 15:43:07 GMT</pubDate>
-            <content:encoded><![CDATA[8시간 전]]></content:encoded>
+            <content:encoded><![CDATA[10시간 전]]></content:encoded>
         </item>
         <item>
             <title><![CDATA['킹메이커' 티저 예고편 (V MOVIE)]]></title>
@@ -151,6 +151,14 @@
             <content:encoded><![CDATA[10.21.]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[<네이버 인디극장 : 우리 구면 아닌가요?> 작품 소개 (V MOVIE - Notice)]]></title>
+            <link>https://www.vlive.tv/post/0-26660219</link>
+            <guid>https://www.vlive.tv/post/0-26660219</guid>
+            <pubDate>Mon, 29 Nov 2021 01:38:08 GMT</pubDate>
+            <content:encoded><![CDATA[22 minutes ago]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net//20211129_49/1638148398857e71H3_JPEG/%B5%A9%C7%C1%BD%C3%B7%D1-%C2%FC%C8%B8%B7%CF.jpg?type=f200" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[<단편애니메이션 기획전 : ANI WHERE> 섹션5 작품 소개 (V MOVIE - Notice)]]></title>
             <link>https://www.vlive.tv/post/1-25675885</link>
             <guid>https://www.vlive.tv/post/1-25675885</guid>
@@ -172,7 +180,6 @@
             <guid>https://www.vlive.tv/post/1-25072185</guid>
             <pubDate>Thu, 21 Oct 2021 08:48:07 GMT</pubDate>
             <content:encoded><![CDATA[Aug 31]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20210831_128/1630372694825tsx4c_JPEG/image.jpg?type=f200" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<단편애니메이션 기획전 : ANI WHERE> 섹션2 작품 소개 (V MOVIE - Notice)]]></title>
@@ -287,18 +294,11 @@
             <content:encoded><![CDATA[Jan 16, 2020]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[1월 15일 오후 9시 배우왓수다에 배정남이 찾아옵니다! (V MOVIE - Notice)]]></title>
-            <link>https://www.vlive.tv/post/1-12559236</link>
-            <guid>https://www.vlive.tv/post/1-12559236</guid>
-            <pubDate>Thu, 21 Oct 2021 08:48:07 GMT</pubDate>
-            <content:encoded><![CDATA[Jan 10, 2020]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[[네이버 인디극장 : 우리 구면 아닌가요?] '뎀프시롤:참회록' 정혁기X조현철 (V SCREEN)]]></title>
             <link>https://www.vlive.tv/post/1-26623456</link>
             <guid>https://www.vlive.tv/post/1-26623456</guid>
             <pubDate>Sun, 28 Nov 2021 15:43:07 GMT</pubDate>
-            <content:encoded><![CDATA[8시간 전]]></content:encoded>
+            <content:encoded><![CDATA[10시간 전]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211126_72/1637908070614wI7ix_JPEG/669d9863-4e7f-11ec-917b-a0369ff9545c_03.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -306,7 +306,7 @@
             <link>https://www.vlive.tv/post/0-26617995</link>
             <guid>https://www.vlive.tv/post/0-26617995</guid>
             <pubDate>Sun, 28 Nov 2021 15:43:07 GMT</pubDate>
-            <content:encoded><![CDATA[8시간 전]]></content:encoded>
+            <content:encoded><![CDATA[10시간 전]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211126_4/1637913002350aeD2q_JPEG/2a817393-4e8b-11ec-a979-48df37ae3dc4_06.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -314,7 +314,7 @@
             <link>https://www.vlive.tv/post/0-26617808</link>
             <guid>https://www.vlive.tv/post/0-26617808</guid>
             <pubDate>Sun, 28 Nov 2021 15:43:07 GMT</pubDate>
-            <content:encoded><![CDATA[8시간 전]]></content:encoded>
+            <content:encoded><![CDATA[10시간 전]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211126_52/1637911974418R2clm_JPEG/2e90c19d-4e88-11ec-9d5b-a0369ff94f34_06.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -322,14 +322,14 @@
             <link>https://www.vlive.tv/post/0-26617571</link>
             <guid>https://www.vlive.tv/post/0-26617571</guid>
             <pubDate>Sun, 28 Nov 2021 15:43:07 GMT</pubDate>
-            <content:encoded><![CDATA[8시간 전]]></content:encoded>
+            <content:encoded><![CDATA[10시간 전]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[네이버 인디극장 : 우리 구면 아닌가요?] '9월이 지나면' 고형동 (V SCREEN)]]></title>
             <link>https://www.vlive.tv/post/0-26617318</link>
             <guid>https://www.vlive.tv/post/0-26617318</guid>
             <pubDate>Sun, 28 Nov 2021 15:43:07 GMT</pubDate>
-            <content:encoded><![CDATA[8시간 전]]></content:encoded>
+            <content:encoded><![CDATA[10시간 전]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[(FULL) '장르만 로맨스' 무비토크 라이브 (V SCREEN)]]></title>
@@ -409,6 +409,14 @@
             <content:encoded><![CDATA[10.12.]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[<네이버 인디극장 : 우리 구면 아닌가요?> 작품 소개 (V SCREEN)]]></title>
+            <link>https://www.vlive.tv/post/0-26660196</link>
+            <guid>https://www.vlive.tv/post/0-26660196</guid>
+            <pubDate>Mon, 29 Nov 2021 01:38:21 GMT</pubDate>
+            <content:encoded><![CDATA[26 minutes ago]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net//20211129_223/1638148180046hnP9g_JPEG/%B5%A9%C7%C1%BD%C3%B7%D1-%C2%FC%C8%B8%B7%CF.jpg?type=f200" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[<단편애니메이션 기획전 : ANI WHERE> 섹션5 작품 소개 (V SCREEN)]]></title>
             <link>https://www.vlive.tv/post/1-25675913</link>
             <guid>https://www.vlive.tv/post/1-25675913</guid>
@@ -430,7 +438,6 @@
             <guid>https://www.vlive.tv/post/1-25072228</guid>
             <pubDate>Thu, 21 Oct 2021 08:48:23 GMT</pubDate>
             <content:encoded><![CDATA[Aug 31]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20210831_241/16303728534624cVtH_JPEG/image.jpg?type=f200" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<단편애니메이션 기획전 : ANI WHERE> 섹션2 작품 소개 (V SCREEN)]]></title>
@@ -541,13 +548,6 @@
             <title><![CDATA[[MSFF2020] 배우 스페셜 GV 현장 스케치 (V SCREEN)]]></title>
             <link>https://www.vlive.tv/post/1-15193583</link>
             <guid>https://www.vlive.tv/post/1-15193583</guid>
-            <pubDate>Thu, 21 Oct 2021 08:48:23 GMT</pubDate>
-            <content:encoded><![CDATA[Jun 25, 2020]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[제19회 <미쟝센 단편영화제> '장르의 상상력展' 경쟁작 온라인 상영관을 소개합니다! (V SCREEN)]]></title>
-            <link>https://www.vlive.tv/post/0-15185488</link>
-            <guid>https://www.vlive.tv/post/0-15185488</guid>
             <pubDate>Thu, 21 Oct 2021 08:48:23 GMT</pubDate>
             <content:encoded><![CDATA[Jun 25, 2020]]></content:encoded>
         </item>

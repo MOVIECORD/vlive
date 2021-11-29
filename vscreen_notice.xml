@@ -4,9 +4,17 @@
         <title>V SCREEN</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 28 Nov 2021 23:39:59 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 29 Nov 2021 01:38:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<네이버 인디극장 : 우리 구면 아닌가요?> 작품 소개]]></title>
+            <link>https://www.vlive.tv/post/0-26660196</link>
+            <guid>https://www.vlive.tv/post/0-26660196</guid>
+            <pubDate>Mon, 29 Nov 2021 01:38:21 GMT</pubDate>
+            <content:encoded><![CDATA[26 minutes ago]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net//20211129_223/1638148180046hnP9g_JPEG/%B5%A9%C7%C1%BD%C3%B7%D1-%C2%FC%C8%B8%B7%CF.jpg?type=f200" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[<단편애니메이션 기획전 : ANI WHERE> 섹션5 작품 소개]]></title>
             <link>https://www.vlive.tv/post/1-25675913</link>
@@ -29,7 +37,6 @@
             <guid>https://www.vlive.tv/post/1-25072228</guid>
             <pubDate>Thu, 21 Oct 2021 08:48:23 GMT</pubDate>
             <content:encoded><![CDATA[Aug 31]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20210831_241/16303728534624cVtH_JPEG/image.jpg?type=f200" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<단편애니메이션 기획전 : ANI WHERE> 섹션2 작품 소개]]></title>
@@ -140,13 +147,6 @@
             <title><![CDATA[[MSFF2020] 배우 스페셜 GV 현장 스케치]]></title>
             <link>https://www.vlive.tv/post/1-15193583</link>
             <guid>https://www.vlive.tv/post/1-15193583</guid>
-            <pubDate>Thu, 21 Oct 2021 08:48:23 GMT</pubDate>
-            <content:encoded><![CDATA[Jun 25, 2020]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[제19회 <미쟝센 단편영화제> '장르의 상상력展' 경쟁작 온라인 상영관을 소개합니다!]]></title>
-            <link>https://www.vlive.tv/post/0-15185488</link>
-            <guid>https://www.vlive.tv/post/0-15185488</guid>
             <pubDate>Thu, 21 Oct 2021 08:48:23 GMT</pubDate>
             <content:encoded><![CDATA[Jun 25, 2020]]></content:encoded>
         </item>
