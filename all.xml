@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 10 Dec 2021 09:41:17 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Dec 2021 10:42:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[(예고) '킹메이커' 무비토크 라이브 (V MOVIE)]]></title>
+            <link>https://www.vlive.tv/post/0-26843122</link>
+            <guid>https://www.vlive.tv/post/0-26843122</guid>
+            <pubDate>Fri, 10 Dec 2021 10:42:30 GMT</pubDate>
+            <content:encoded><![CDATA[12분 전]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211208_123/1638942535044l506x_JPEG/2eb3782a-57ea-11ec-9970-a0369ff94ec8_06.jpg?type=f359x202" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[네이버 인디극장 : 우리 구면 아닌가요?] '9월이 지나면' 고형동 (V MOVIE)]]></title>
             <link>https://www.vlive.tv/post/0-26617318</link>
@@ -29,7 +37,6 @@
             <guid>https://www.vlive.tv/post/0-26617808</guid>
             <pubDate>Sun, 28 Nov 2021 15:43:07 GMT</pubDate>
             <content:encoded><![CDATA[11.28.]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211126_52/1637911974418R2clm_JPEG/2e90c19d-4e88-11ec-9d5b-a0369ff94f34_06.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[네이버 인디극장 : 우리 구면 아닌가요?] '능력소녀' 김수영 (V MOVIE)]]></title>
@@ -142,13 +149,6 @@
             <guid>https://www.vlive.tv/post/1-26165786</guid>
             <pubDate>Mon, 25 Oct 2021 08:42:53 GMT</pubDate>
             <content:encoded><![CDATA[10.25.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[(예고) '강릉' 무비토크 라이브 (V MOVIE)]]></title>
-            <link>https://www.vlive.tv/post/0-26088725</link>
-            <guid>https://www.vlive.tv/post/0-26088725</guid>
-            <pubDate>Thu, 21 Oct 2021 08:47:58 GMT</pubDate>
-            <content:encoded><![CDATA[10.21.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[<네이버 인디극장 : 우리 구면 아닌가요?> 작품 소개 (V MOVIE - Notice)]]></title>
@@ -294,6 +294,14 @@
             <content:encoded><![CDATA[Jan 16, 2020]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[(예고) '킹메이커' 무비토크 라이브 (V SCREEN)]]></title>
+            <link>https://www.vlive.tv/post/0-26843122</link>
+            <guid>https://www.vlive.tv/post/0-26843122</guid>
+            <pubDate>Fri, 10 Dec 2021 10:42:47 GMT</pubDate>
+            <content:encoded><![CDATA[12분 전]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211208_123/1638942535044l506x_JPEG/2eb3782a-57ea-11ec-9970-a0369ff94ec8_06.jpg?type=f359x202" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[네이버 인디극장 : 우리 구면 아닌가요?] '뎀프시롤:참회록' 정혁기X조현철 (V SCREEN)]]></title>
             <link>https://www.vlive.tv/post/1-26623456</link>
             <guid>https://www.vlive.tv/post/1-26623456</guid>
@@ -315,7 +323,6 @@
             <guid>https://www.vlive.tv/post/0-26617808</guid>
             <pubDate>Sun, 28 Nov 2021 15:43:07 GMT</pubDate>
             <content:encoded><![CDATA[11.28.]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211126_52/1637911974418R2clm_JPEG/2e90c19d-4e88-11ec-9d5b-a0369ff94f34_06.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[네이버 인디극장 : 우리 구면 아닌가요?] '능력소녀' 김수영 (V SCREEN)]]></title>
