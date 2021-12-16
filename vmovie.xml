@@ -4,9 +4,17 @@
         <title>V MOVIE</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 16 Dec 2021 09:41:35 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Dec 2021 10:39:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['특송' 끝장 추격 캐릭터 예고편]]></title>
+            <link>https://www.vlive.tv/post/0-26960201</link>
+            <guid>https://www.vlive.tv/post/0-26960201</guid>
+            <pubDate>Thu, 16 Dec 2021 10:39:29 GMT</pubDate>
+            <content:encoded><![CDATA[5분 전]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211216_223/1639650842632260cE_JPEG/b2c450e4-5e44-11ec-850b-a0369ff95ec0_07.jpg?type=f359x202" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['피부를 판 남자' 10분 하이라이트]]></title>
             <link>https://www.vlive.tv/post/1-26936208</link>
@@ -29,7 +37,6 @@
             <guid>https://www.vlive.tv/post/0-26617318</guid>
             <pubDate>Sun, 28 Nov 2021 15:43:07 GMT</pubDate>
             <content:encoded><![CDATA[11.28.]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211126_240/1637909319516dgGG7_JPEG/4495ddeb-4e82-11ec-ba2c-505dac8c385b_09.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[네이버 인디극장 : 우리 구면 아닌가요?] '그 새끼를 죽였어야 했는데' 이가홍]]></title>
@@ -142,13 +149,6 @@
             <guid>https://www.vlive.tv/post/1-26223751</guid>
             <pubDate>Fri, 29 Oct 2021 06:46:57 GMT</pubDate>
             <content:encoded><![CDATA[10.29.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[(FULL) '강릉' 무비토크 라이브]]></title>
-            <link>https://www.vlive.tv/post/0-26088783</link>
-            <guid>https://www.vlive.tv/post/0-26088783</guid>
-            <pubDate>Wed, 27 Oct 2021 07:37:18 GMT</pubDate>
-            <content:encoded><![CDATA[10.27.]]></content:encoded>
         </item>
     </channel>
 </rss>
