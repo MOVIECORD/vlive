@@ -4,17 +4,9 @@
         <title>V SCREEN</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 16 Dec 2021 11:36:58 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Dec 2021 12:59:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA['킹메이커' 무비토크 라이브]]></title>
-            <link>https://www.vlive.tv/post/0-26878495</link>
-            <guid>https://www.vlive.tv/post/0-26878495</guid>
-            <pubDate>Thu, 16 Dec 2021 11:36:48 GMT</pubDate>
-            <content:encoded><![CDATA[45분 전]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211210_297/1639131865262rrujw_JPEG/upload_83211600648137098ce8dd3fb-9924-4e4d-8fd3-20788f19a9bb.jpg?type=f359x202" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[(예고) '킹메이커' 무비토크 라이브]]></title>
             <link>https://www.vlive.tv/post/0-26843122</link>
@@ -37,6 +29,7 @@
             <guid>https://www.vlive.tv/post/0-26617995</guid>
             <pubDate>Sun, 28 Nov 2021 15:43:24 GMT</pubDate>
             <content:encoded><![CDATA[11.28.]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211126_4/1637913002350aeD2q_JPEG/2a817393-4e8b-11ec-a979-48df37ae3dc4_06.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[네이버 인디극장 : 우리 구면 아닌가요?] '떨어져 있어야 가족이다' 김현]]></title>
