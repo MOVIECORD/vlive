@@ -4,15 +4,23 @@
         <title>V MOVIE</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 16 Dec 2021 10:39:54 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Dec 2021 11:36:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['킹메이커' 무비토크 라이브]]></title>
+            <link>https://www.vlive.tv/post/0-26878495</link>
+            <guid>https://www.vlive.tv/post/0-26878495</guid>
+            <pubDate>Thu, 16 Dec 2021 11:36:32 GMT</pubDate>
+            <content:encoded><![CDATA[45분 전]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211210_297/1639131865262rrujw_JPEG/upload_83211600648137098ce8dd3fb-9924-4e4d-8fd3-20788f19a9bb.jpg?type=f359x202" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['특송' 끝장 추격 캐릭터 예고편]]></title>
             <link>https://www.vlive.tv/post/0-26960201</link>
             <guid>https://www.vlive.tv/post/0-26960201</guid>
             <pubDate>Thu, 16 Dec 2021 10:39:29 GMT</pubDate>
-            <content:encoded><![CDATA[5분 전]]></content:encoded>
+            <content:encoded><![CDATA[1시간 전]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211216_223/1639650842632260cE_JPEG/b2c450e4-5e44-11ec-850b-a0369ff95ec0_07.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -29,7 +37,6 @@
             <guid>https://www.vlive.tv/post/0-26843122</guid>
             <pubDate>Fri, 10 Dec 2021 10:42:30 GMT</pubDate>
             <content:encoded><![CDATA[12.10.]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211208_123/1638942535044l506x_JPEG/2eb3782a-57ea-11ec-9970-a0369ff94ec8_06.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[네이버 인디극장 : 우리 구면 아닌가요?] '9월이 지나면' 고형동]]></title>
@@ -140,13 +147,6 @@
             <title><![CDATA['고스트버스터즈 라이즈' 메인 예고편]]></title>
             <link>https://www.vlive.tv/post/0-26217704</link>
             <guid>https://www.vlive.tv/post/0-26217704</guid>
-            <pubDate>Fri, 29 Oct 2021 06:46:57 GMT</pubDate>
-            <content:encoded><![CDATA[10.29.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[(예고) '연애 빠진 로맨스' 무비토크 라이브]]></title>
-            <link>https://www.vlive.tv/post/1-26223751</link>
-            <guid>https://www.vlive.tv/post/1-26223751</guid>
             <pubDate>Fri, 29 Oct 2021 06:46:57 GMT</pubDate>
             <content:encoded><![CDATA[10.29.]]></content:encoded>
         </item>
