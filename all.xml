@@ -4,15 +4,23 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 22 Dec 2021 03:42:40 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Dec 2021 04:52:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[(FULL) '킹메이커' 무비토크 라이브 (V MOVIE)]]></title>
+            <link>https://www.vlive.tv/post/0-26878495</link>
+            <guid>https://www.vlive.tv/post/0-26878495</guid>
+            <pubDate>Wed, 22 Dec 2021 04:52:31 GMT</pubDate>
+            <content:encoded><![CDATA[1시간 전]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211222_10/1640144048854HmQWx_JPEG/upload_84223784250583872877996b8-85ac-4033-b276-ae61116f07f6.jpg?type=f359x202" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['하우스 오브 구찌' 메인 예고편 (V MOVIE)]]></title>
             <link>https://www.vlive.tv/post/1-27026773</link>
             <guid>https://www.vlive.tv/post/1-27026773</guid>
             <pubDate>Tue, 21 Dec 2021 05:38:29 GMT</pubDate>
-            <content:encoded><![CDATA[22시간 전]]></content:encoded>
+            <content:encoded><![CDATA[23시간 전]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211221_50/1640063932338UwlYC_JPEG/eed4c4be-6172-11ec-98e2-505dacfba98a_04.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -29,7 +37,6 @@
             <guid>https://www.vlive.tv/post/0-26960201</guid>
             <pubDate>Thu, 16 Dec 2021 10:39:29 GMT</pubDate>
             <content:encoded><![CDATA[12.16.]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211216_223/1639650842632260cE_JPEG/b2c450e4-5e44-11ec-850b-a0369ff95ec0_07.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['피부를 판 남자' 10분 하이라이트 (V MOVIE)]]></title>
@@ -142,13 +149,6 @@
             <guid>https://www.vlive.tv/post/1-26183044</guid>
             <pubDate>Tue, 02 Nov 2021 03:40:58 GMT</pubDate>
             <content:encoded><![CDATA[11.2.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA['연애 빠진 로맨스' 캐릭터 프로필 영상 (V MOVIE)]]></title>
-            <link>https://www.vlive.tv/post/0-26219891</link>
-            <guid>https://www.vlive.tv/post/0-26219891</guid>
-            <pubDate>Fri, 29 Oct 2021 09:40:00 GMT</pubDate>
-            <content:encoded><![CDATA[10.29.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[<네이버 인디극장 : 우리 구면 아닌가요?> 작품 소개 (V MOVIE - Notice)]]></title>
@@ -294,6 +294,14 @@
             <content:encoded><![CDATA[Jan 16, 2020]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[(FULL) '킹메이커' 무비토크 라이브 (V SCREEN)]]></title>
+            <link>https://www.vlive.tv/post/0-26878495</link>
+            <guid>https://www.vlive.tv/post/0-26878495</guid>
+            <pubDate>Wed, 22 Dec 2021 04:52:45 GMT</pubDate>
+            <content:encoded><![CDATA[1시간 전]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211222_10/1640144048854HmQWx_JPEG/upload_84223784250583872877996b8-85ac-4033-b276-ae61116f07f6.jpg?type=f359x202" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[(예고) '킹메이커' 무비토크 라이브 (V SCREEN)]]></title>
             <link>https://www.vlive.tv/post/0-26843122</link>
             <guid>https://www.vlive.tv/post/0-26843122</guid>
@@ -315,7 +323,6 @@
             <guid>https://www.vlive.tv/post/0-26617995</guid>
             <pubDate>Sun, 28 Nov 2021 15:43:07 GMT</pubDate>
             <content:encoded><![CDATA[11.28.]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211126_4/1637913002350aeD2q_JPEG/2a817393-4e8b-11ec-a979-48df37ae3dc4_06.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[네이버 인디극장 : 우리 구면 아닌가요?] '떨어져 있어야 가족이다' 김현 (V SCREEN)]]></title>
