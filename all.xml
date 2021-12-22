@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 22 Dec 2021 04:52:53 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Dec 2021 05:38:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -20,7 +20,7 @@
             <link>https://www.vlive.tv/post/1-27026773</link>
             <guid>https://www.vlive.tv/post/1-27026773</guid>
             <pubDate>Tue, 21 Dec 2021 05:38:29 GMT</pubDate>
-            <content:encoded><![CDATA[23시간 전]]></content:encoded>
+            <content:encoded><![CDATA[12.21.]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211221_50/1640063932338UwlYC_JPEG/eed4c4be-6172-11ec-98e2-505dacfba98a_04.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -297,7 +297,7 @@
             <title><![CDATA[(FULL) '킹메이커' 무비토크 라이브 (V SCREEN)]]></title>
             <link>https://www.vlive.tv/post/0-26878495</link>
             <guid>https://www.vlive.tv/post/0-26878495</guid>
-            <pubDate>Wed, 22 Dec 2021 04:52:45 GMT</pubDate>
+            <pubDate>Wed, 22 Dec 2021 04:52:31 GMT</pubDate>
             <content:encoded><![CDATA[1시간 전]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211222_10/1640144048854HmQWx_JPEG/upload_84223784250583872877996b8-85ac-4033-b276-ae61116f07f6.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
