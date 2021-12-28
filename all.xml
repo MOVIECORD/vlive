@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 Dec 2021 09:41:50 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Dec 2021 10:42:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -421,6 +421,20 @@
             <guid>https://www.vlive.tv/post/1-25794477</guid>
             <pubDate>Thu, 21 Oct 2021 08:47:58 GMT</pubDate>
             <content:encoded><![CDATA[10.12.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[(FULL) '기적'배 장학퀴즈! 무비토크 라이브 (V SCREEN)]]></title>
+            <link>https://www.vlive.tv/post/1-25001517</link>
+            <guid>https://www.vlive.tv/post/1-25001517</guid>
+            <pubDate>Tue, 28 Dec 2021 10:42:45 GMT</pubDate>
+            <content:encoded><![CDATA[9.9.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[(FULL) '보이스' 무비토크 라이브 (V SCREEN)]]></title>
+            <link>https://www.vlive.tv/post/0-24961828</link>
+            <guid>https://www.vlive.tv/post/0-24961828</guid>
+            <pubDate>Tue, 28 Dec 2021 10:42:45 GMT</pubDate>
+            <content:encoded><![CDATA[9.3.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[<네이버 인디극장 : 우리 구면 아닌가요?> 작품 소개 (V SCREEN)]]></title>
