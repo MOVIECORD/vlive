@@ -4,9 +4,17 @@
         <title>V MOVIE</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 18 Jan 2022 11:38:03 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 18 Jan 2022 13:02:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['해적: 도깨비 깃발' 무비토크 라이브]]></title>
+            <link>https://www.vlive.tv/post/0-27418884</link>
+            <guid>https://www.vlive.tv/post/0-27418884</guid>
+            <pubDate>Tue, 18 Jan 2022 13:02:27 GMT</pubDate>
+            <content:encoded><![CDATA[1시간 전]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220114_151/1642122073922Urfdv_JPEG/upload_862017952948812171b6aee9b-8097-4ff6-ab54-7ce4533fee96.jpg?type=f359x202" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[(예고) '해적: 도깨비 깃발' 무비토크 라이브]]></title>
             <link>https://www.vlive.tv/post/0-27410995</link>
@@ -29,7 +37,6 @@
             <guid>https://www.vlive.tv/post/1-27026773</guid>
             <pubDate>Thu, 06 Jan 2022 14:38:56 GMT</pubDate>
             <content:encoded><![CDATA[2021.12.21.]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211221_50/1640063932338UwlYC_JPEG/eed4c4be-6172-11ec-98e2-505dacfba98a_04.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['언차티드' 1차 예고편]]></title>
@@ -140,13 +147,6 @@
             <title><![CDATA['타임 이즈 업' 10분 하이라이트]]></title>
             <link>https://www.vlive.tv/post/0-26293689</link>
             <guid>https://www.vlive.tv/post/0-26293689</guid>
-            <pubDate>Thu, 06 Jan 2022 14:38:56 GMT</pubDate>
-            <content:encoded><![CDATA[2021.11.3.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA['모비우스' 2차 예고편]]></title>
-            <link>https://www.vlive.tv/post/1-26297745</link>
-            <guid>https://www.vlive.tv/post/1-26297745</guid>
             <pubDate>Thu, 06 Jan 2022 14:38:56 GMT</pubDate>
             <content:encoded><![CDATA[2021.11.3.]]></content:encoded>
         </item>
