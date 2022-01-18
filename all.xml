@@ -4,17 +4,9 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 18 Jan 2022 13:02:52 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 18 Jan 2022 13:44:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA['해적: 도깨비 깃발' 무비토크 라이브 (V MOVIE)]]></title>
-            <link>https://www.vlive.tv/post/0-27418884</link>
-            <guid>https://www.vlive.tv/post/0-27418884</guid>
-            <pubDate>Tue, 18 Jan 2022 13:02:27 GMT</pubDate>
-            <content:encoded><![CDATA[1시간 전]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220114_151/1642122073922Urfdv_JPEG/upload_862017952948812171b6aee9b-8097-4ff6-ab54-7ce4533fee96.jpg?type=f359x202" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[(예고) '해적: 도깨비 깃발' 무비토크 라이브 (V MOVIE)]]></title>
             <link>https://www.vlive.tv/post/0-27410995</link>
@@ -37,6 +29,7 @@
             <guid>https://www.vlive.tv/post/1-27026773</guid>
             <pubDate>Tue, 21 Dec 2021 05:38:29 GMT</pubDate>
             <content:encoded><![CDATA[2021.12.21.]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211221_50/1640063932338UwlYC_JPEG/eed4c4be-6172-11ec-98e2-505dacfba98a_04.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['언차티드' 1차 예고편 (V MOVIE)]]></title>
@@ -148,6 +141,13 @@
             <link>https://www.vlive.tv/post/0-26293689</link>
             <guid>https://www.vlive.tv/post/0-26293689</guid>
             <pubDate>Wed, 03 Nov 2021 07:37:47 GMT</pubDate>
+            <content:encoded><![CDATA[2021.11.3.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA['모비우스' 2차 예고편 (V MOVIE)]]></title>
+            <link>https://www.vlive.tv/post/1-26297745</link>
+            <guid>https://www.vlive.tv/post/1-26297745</guid>
+            <pubDate>Tue, 18 Jan 2022 13:44:11 GMT</pubDate>
             <content:encoded><![CDATA[2021.11.3.]]></content:encoded>
         </item>
         <item>
@@ -294,14 +294,6 @@
             <content:encoded><![CDATA[Jan 16, 2020]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['해적: 도깨비 깃발' 무비토크 라이브 (V SCREEN)]]></title>
-            <link>https://www.vlive.tv/post/0-27418884</link>
-            <guid>https://www.vlive.tv/post/0-27418884</guid>
-            <pubDate>Tue, 18 Jan 2022 13:02:43 GMT</pubDate>
-            <content:encoded><![CDATA[1시간 전]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220114_151/1642122073922Urfdv_JPEG/upload_862017952948812171b6aee9b-8097-4ff6-ab54-7ce4533fee96.jpg?type=f359x202" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[(예고) '해적: 도깨비 깃발' 무비토크 라이브 (V SCREEN)]]></title>
             <link>https://www.vlive.tv/post/0-27410995</link>
             <guid>https://www.vlive.tv/post/0-27410995</guid>
@@ -323,6 +315,7 @@
             <guid>https://www.vlive.tv/post/0-26843122</guid>
             <pubDate>Fri, 10 Dec 2021 10:42:30 GMT</pubDate>
             <content:encoded><![CDATA[2021.12.10.]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211208_123/1638942535044l506x_JPEG/2eb3782a-57ea-11ec-9970-a0369ff94ec8_06.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[네이버 인디극장 : 우리 구면 아닌가요?] '뎀프시롤:참회록' 정혁기X조현철 (V SCREEN)]]></title>
@@ -435,6 +428,13 @@
             <guid>https://www.vlive.tv/post/1-25794477</guid>
             <pubDate>Thu, 21 Oct 2021 08:47:58 GMT</pubDate>
             <content:encoded><![CDATA[2021.10.12.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[(FULL) '기적'배 장학퀴즈! 무비토크 라이브 (V SCREEN)]]></title>
+            <link>https://www.vlive.tv/post/1-25001517</link>
+            <guid>https://www.vlive.tv/post/1-25001517</guid>
+            <pubDate>Tue, 18 Jan 2022 13:44:28 GMT</pubDate>
+            <content:encoded><![CDATA[2021.9.9.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[<네이버 인디극장 : 우리 구면 아닌가요?> 작품 소개 (V SCREEN)]]></title>
