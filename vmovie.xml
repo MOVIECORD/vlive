@@ -4,17 +4,9 @@
         <title>V MOVIE</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 17 Feb 2022 11:37:07 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Feb 2022 12:55:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA['디렉터스 체어' 스페셜 토크 '감독들이 뽑은 최고의 시리즈5편']]></title>
-            <link>https://www.vlive.tv/post/0-27940576</link>
-            <guid>https://www.vlive.tv/post/0-27940576</guid>
-            <pubDate>Thu, 17 Feb 2022 10:39:50 GMT</pubDate>
-            <content:encoded><![CDATA[1시간 전]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220216_30/16450045829704cWJa_JPEG/upload_61274190022320043ec5d88ea-10b2-491d-8a4b-f677776199f0.jpg?type=f359x202" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[(FULL) '해적: 도깨비 깃발' 무비토크 라이브]]></title>
             <link>https://www.vlive.tv/post/0-27418884</link>
@@ -37,6 +29,7 @@
             <guid>https://www.vlive.tv/post/0-26878495</guid>
             <pubDate>Thu, 06 Jan 2022 14:38:56 GMT</pubDate>
             <content:encoded><![CDATA[2021.12.22.]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211222_10/1640144048854HmQWx_JPEG/upload_84223784250583872877996b8-85ac-4033-b276-ae61116f07f6.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['하우스 오브 구찌' 메인 예고편]]></title>
@@ -149,6 +142,13 @@
             <guid>https://www.vlive.tv/post/1-26382461</guid>
             <pubDate>Thu, 06 Jan 2022 14:38:56 GMT</pubDate>
             <content:encoded><![CDATA[2021.11.9.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA['타임 이즈 업' 10분 하이라이트]]></title>
+            <link>https://www.vlive.tv/post/0-26293689</link>
+            <guid>https://www.vlive.tv/post/0-26293689</guid>
+            <pubDate>Thu, 17 Feb 2022 12:55:04 GMT</pubDate>
+            <content:encoded><![CDATA[2021.11.3.]]></content:encoded>
         </item>
     </channel>
 </rss>
