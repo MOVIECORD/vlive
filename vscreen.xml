@@ -4,15 +4,23 @@
         <title>V SCREEN</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 18 Feb 2022 09:38:46 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Feb 2022 10:40:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['디렉터스 체어' 스페셜 토크 '감독들이 뽑은 최고의 영화5편']]></title>
+            <link>https://www.vlive.tv/post/1-27947302</link>
+            <guid>https://www.vlive.tv/post/1-27947302</guid>
+            <pubDate>Fri, 18 Feb 2022 10:40:33 GMT</pubDate>
+            <content:encoded><![CDATA[40분 전]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220216_212/1645004639036oHtLm_JPEG/upload_89084360396888262e30ea8fb-3791-460f-b6ae-5b18638de620.jpg?type=f359x202" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[(FULL) '디렉터스 체어' 스페셜 토크 '감독들이 뽑은 최고의 시리즈5편']]></title>
             <link>https://www.vlive.tv/post/0-27940576</link>
             <guid>https://www.vlive.tv/post/0-27940576</guid>
             <pubDate>Fri, 18 Feb 2022 02:50:40 GMT</pubDate>
-            <content:encoded><![CDATA[7시간 전]]></content:encoded>
+            <content:encoded><![CDATA[8시간 전]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220218_259/1645150761598e3z8x_JPEG/5619a761-905e-11ec-be77-a0369ff963bc_07.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -29,7 +37,6 @@
             <guid>https://www.vlive.tv/post/0-27410995</guid>
             <pubDate>Fri, 14 Jan 2022 01:47:28 GMT</pubDate>
             <content:encoded><![CDATA[1.14.]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220113_32/1642069672515eivty_PNG/upload_86149393734423561e78f68af-eda7-4a89-b0b3-d017d87fb1d0.png?type=f359x202" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[(FULL) '킹메이커' 무비토크 라이브]]></title>
@@ -140,13 +147,6 @@
             <title><![CDATA[(FULL) '2021 부일영화상' 핸드프리팅 & 레드카펫]]></title>
             <link>https://www.vlive.tv/post/0-25786399</link>
             <guid>https://www.vlive.tv/post/0-25786399</guid>
-            <pubDate>Thu, 06 Jan 2022 11:37:49 GMT</pubDate>
-            <content:encoded><![CDATA[2021.10.15.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[(FULL) '2021 부일영화상' 올해의 스타와의 토크]]></title>
-            <link>https://www.vlive.tv/post/0-25786384</link>
-            <guid>https://www.vlive.tv/post/0-25786384</guid>
             <pubDate>Thu, 06 Jan 2022 11:37:49 GMT</pubDate>
             <content:encoded><![CDATA[2021.10.15.]]></content:encoded>
         </item>
