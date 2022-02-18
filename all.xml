@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 18 Feb 2022 10:40:45 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Feb 2022 11:36:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -12,7 +12,7 @@
             <link>https://www.vlive.tv/post/1-27947302</link>
             <guid>https://www.vlive.tv/post/1-27947302</guid>
             <pubDate>Fri, 18 Feb 2022 10:40:14 GMT</pubDate>
-            <content:encoded><![CDATA[40분 전]]></content:encoded>
+            <content:encoded><![CDATA[1시간 전]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220216_212/1645004639036oHtLm_JPEG/upload_89084360396888262e30ea8fb-3791-460f-b6ae-5b18638de620.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -20,7 +20,7 @@
             <link>https://www.vlive.tv/post/0-27940576</link>
             <guid>https://www.vlive.tv/post/0-27940576</guid>
             <pubDate>Fri, 18 Feb 2022 02:50:27 GMT</pubDate>
-            <content:encoded><![CDATA[8시간 전]]></content:encoded>
+            <content:encoded><![CDATA[9시간 전]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220218_259/1645150761598e3z8x_JPEG/5619a761-905e-11ec-be77-a0369ff963bc_07.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -297,8 +297,8 @@
             <title><![CDATA['디렉터스 체어' 스페셜 토크 '감독들이 뽑은 최고의 영화5편' (V SCREEN)]]></title>
             <link>https://www.vlive.tv/post/1-27947302</link>
             <guid>https://www.vlive.tv/post/1-27947302</guid>
-            <pubDate>Fri, 18 Feb 2022 10:40:33 GMT</pubDate>
-            <content:encoded><![CDATA[40분 전]]></content:encoded>
+            <pubDate>Fri, 18 Feb 2022 10:40:14 GMT</pubDate>
+            <content:encoded><![CDATA[1시간 전]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220216_212/1645004639036oHtLm_JPEG/upload_89084360396888262e30ea8fb-3791-460f-b6ae-5b18638de620.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -306,7 +306,7 @@
             <link>https://www.vlive.tv/post/0-27940576</link>
             <guid>https://www.vlive.tv/post/0-27940576</guid>
             <pubDate>Fri, 18 Feb 2022 02:50:27 GMT</pubDate>
-            <content:encoded><![CDATA[8시간 전]]></content:encoded>
+            <content:encoded><![CDATA[9시간 전]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220218_259/1645150761598e3z8x_JPEG/5619a761-905e-11ec-be77-a0369ff963bc_07.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
