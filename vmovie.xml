@@ -4,9 +4,17 @@
         <title>V MOVIE</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 20 Feb 2022 23:37:43 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Feb 2022 01:41:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[(FULL) '디렉터스 체어' 스페셜 토크 '감독들이 뽑은 최고의 영화5편']]></title>
+            <link>https://www.vlive.tv/post/1-27947302</link>
+            <guid>https://www.vlive.tv/post/1-27947302</guid>
+            <pubDate>Mon, 21 Feb 2022 01:41:15 GMT</pubDate>
+            <content:encoded><![CDATA[3분 전]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220221_86/164540549942732rxO_JPEG/upload_894852208030838800b0ff15d-6231-4334-bca6-8907c4d396eb.jpg?type=f359x202" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[(FULL) '디렉터스 체어' 스페셜 토크 '감독들이 뽑은 최고의 시리즈5편']]></title>
             <link>https://www.vlive.tv/post/0-27940576</link>
@@ -29,7 +37,6 @@
             <guid>https://www.vlive.tv/post/0-27410995</guid>
             <pubDate>Fri, 14 Jan 2022 01:47:15 GMT</pubDate>
             <content:encoded><![CDATA[1.14.]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220113_32/1642069672515eivty_PNG/upload_86149393734423561e78f68af-eda7-4a89-b0b3-d017d87fb1d0.png?type=f359x202" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[(FULL) '킹메이커' 무비토크 라이브]]></title>
@@ -142,13 +149,6 @@
             <guid>https://www.vlive.tv/post/0-26413339</guid>
             <pubDate>Thu, 06 Jan 2022 14:38:56 GMT</pubDate>
             <content:encoded><![CDATA[2021.11.12.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[(예고) '장르만 로맨스' 무비토크 라이브]]></title>
-            <link>https://www.vlive.tv/post/1-26382461</link>
-            <guid>https://www.vlive.tv/post/1-26382461</guid>
-            <pubDate>Fri, 18 Feb 2022 12:55:05 GMT</pubDate>
-            <content:encoded><![CDATA[2021.11.9.]]></content:encoded>
         </item>
     </channel>
 </rss>
