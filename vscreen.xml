@@ -4,9 +4,17 @@
         <title>V SCREEN</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 24 Feb 2022 09:39:26 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Feb 2022 10:40:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[제20회 디렉터스컷 어워즈]]></title>
+            <link>https://www.vlive.tv/post/1-27947054</link>
+            <guid>https://www.vlive.tv/post/1-27947054</guid>
+            <pubDate>Thu, 24 Feb 2022 10:40:48 GMT</pubDate>
+            <content:encoded><![CDATA[50분 전]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220216_278/1645003463428013RF_JPEG/upload_61273070482431856a9374830-3708-4a99-b67f-5abbed65428a.jpg?type=f359x202" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[(FULL) '디렉터스 체어' 스페셜 토크 '감독들이 뽑은 최고의 영화5편']]></title>
             <link>https://www.vlive.tv/post/1-27947302</link>
@@ -29,7 +37,6 @@
             <guid>https://www.vlive.tv/post/0-27418884</guid>
             <pubDate>Wed, 19 Jan 2022 02:47:23 GMT</pubDate>
             <content:encoded><![CDATA[1.19.]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220119_232/1642557497181FzhMs_JPEG/upload_866372325849163909e49f8d2-185a-4ba4-b08d-ab454e27dc8c.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[(예고) '해적: 도깨비 깃발' 무비토크 라이브]]></title>
@@ -140,13 +147,6 @@
             <title><![CDATA[(FULL) '2021 부일영화상' 부일영화상 시상식]]></title>
             <link>https://www.vlive.tv/post/1-25793825</link>
             <guid>https://www.vlive.tv/post/1-25793825</guid>
-            <pubDate>Thu, 06 Jan 2022 11:37:49 GMT</pubDate>
-            <content:encoded><![CDATA[2021.10.15.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[(FULL) '2021 부일영화상' 핸드프리팅 & 레드카펫]]></title>
-            <link>https://www.vlive.tv/post/0-25786399</link>
-            <guid>https://www.vlive.tv/post/0-25786399</guid>
             <pubDate>Thu, 06 Jan 2022 11:37:49 GMT</pubDate>
             <content:encoded><![CDATA[2021.10.15.]]></content:encoded>
         </item>
