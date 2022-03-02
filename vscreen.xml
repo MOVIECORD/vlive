@@ -4,7 +4,7 @@
         <title>V SCREEN</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 01 Mar 2022 23:38:54 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 02 Mar 2022 01:54:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -58,41 +58,6 @@
             <guid>https://www.vlive.tv/post/0-26843122</guid>
             <pubDate>Thu, 06 Jan 2022 11:37:49 GMT</pubDate>
             <content:encoded><![CDATA[2021.12.10.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[네이버 인디극장 : 우리 구면 아닌가요?] '뎀프시롤:참회록' 정혁기X조현철]]></title>
-            <link>https://www.vlive.tv/post/1-26623456</link>
-            <guid>https://www.vlive.tv/post/1-26623456</guid>
-            <pubDate>Thu, 06 Jan 2022 11:37:49 GMT</pubDate>
-            <content:encoded><![CDATA[2021.11.28.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[네이버 인디극장 : 우리 구면 아닌가요?] '그 새끼를 죽였어야 했는데' 이가홍]]></title>
-            <link>https://www.vlive.tv/post/0-26617995</link>
-            <guid>https://www.vlive.tv/post/0-26617995</guid>
-            <pubDate>Thu, 06 Jan 2022 11:37:49 GMT</pubDate>
-            <content:encoded><![CDATA[2021.11.28.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[네이버 인디극장 : 우리 구면 아닌가요?] '떨어져 있어야 가족이다' 김현]]></title>
-            <link>https://www.vlive.tv/post/0-26617808</link>
-            <guid>https://www.vlive.tv/post/0-26617808</guid>
-            <pubDate>Thu, 06 Jan 2022 11:37:49 GMT</pubDate>
-            <content:encoded><![CDATA[2021.11.28.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[네이버 인디극장 : 우리 구면 아닌가요?] '능력소녀' 김수영]]></title>
-            <link>https://www.vlive.tv/post/0-26617571</link>
-            <guid>https://www.vlive.tv/post/0-26617571</guid>
-            <pubDate>Thu, 06 Jan 2022 11:37:49 GMT</pubDate>
-            <content:encoded><![CDATA[2021.11.28.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[네이버 인디극장 : 우리 구면 아닌가요?] '9월이 지나면' 고형동]]></title>
-            <link>https://www.vlive.tv/post/0-26617318</link>
-            <guid>https://www.vlive.tv/post/0-26617318</guid>
-            <pubDate>Thu, 06 Jan 2022 11:37:49 GMT</pubDate>
-            <content:encoded><![CDATA[2021.11.28.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[(FULL) '장르만 로맨스' 무비토크 라이브]]></title>
@@ -149,6 +114,41 @@
             <guid>https://www.vlive.tv/post/1-25793825</guid>
             <pubDate>Thu, 06 Jan 2022 11:37:49 GMT</pubDate>
             <content:encoded><![CDATA[2021.10.15.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[(FULL) '2021 부일영화상' 핸드프리팅 & 레드카펫]]></title>
+            <link>https://www.vlive.tv/post/0-25786399</link>
+            <guid>https://www.vlive.tv/post/0-25786399</guid>
+            <pubDate>Wed, 02 Mar 2022 01:54:13 GMT</pubDate>
+            <content:encoded><![CDATA[2021.10.15.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[(FULL) '2021 부일영화상' 올해의 스타와의 토크]]></title>
+            <link>https://www.vlive.tv/post/0-25786384</link>
+            <guid>https://www.vlive.tv/post/0-25786384</guid>
+            <pubDate>Wed, 02 Mar 2022 01:54:13 GMT</pubDate>
+            <content:encoded><![CDATA[2021.10.15.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[(FULL) 이동진 평론가 X 이혜성 아나운서 '라스트 듀얼: 최후의 결투' 무비토크]]></title>
+            <link>https://www.vlive.tv/post/1-25794477</link>
+            <guid>https://www.vlive.tv/post/1-25794477</guid>
+            <pubDate>Wed, 02 Mar 2022 01:54:13 GMT</pubDate>
+            <content:encoded><![CDATA[2021.10.12.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[(FULL) '기적'배 장학퀴즈! 무비토크 라이브]]></title>
+            <link>https://www.vlive.tv/post/1-25001517</link>
+            <guid>https://www.vlive.tv/post/1-25001517</guid>
+            <pubDate>Wed, 02 Mar 2022 01:54:13 GMT</pubDate>
+            <content:encoded><![CDATA[2021.9.9.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[(FULL) '보이스' 무비토크 라이브]]></title>
+            <link>https://www.vlive.tv/post/0-24961828</link>
+            <guid>https://www.vlive.tv/post/0-24961828</guid>
+            <pubDate>Wed, 02 Mar 2022 01:54:13 GMT</pubDate>
+            <content:encoded><![CDATA[2021.9.3.]]></content:encoded>
         </item>
     </channel>
 </rss>

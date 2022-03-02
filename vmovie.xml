@@ -4,7 +4,7 @@
         <title>V MOVIE</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 01 Mar 2022 23:38:54 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 02 Mar 2022 01:54:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -88,41 +88,6 @@
             <content:encoded><![CDATA[2021.12.10.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[네이버 인디극장 : 우리 구면 아닌가요?] '9월이 지나면' 고형동]]></title>
-            <link>https://www.vlive.tv/post/0-26617318</link>
-            <guid>https://www.vlive.tv/post/0-26617318</guid>
-            <pubDate>Thu, 06 Jan 2022 14:38:56 GMT</pubDate>
-            <content:encoded><![CDATA[2021.11.28.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[네이버 인디극장 : 우리 구면 아닌가요?] '그 새끼를 죽였어야 했는데' 이가홍]]></title>
-            <link>https://www.vlive.tv/post/0-26617995</link>
-            <guid>https://www.vlive.tv/post/0-26617995</guid>
-            <pubDate>Thu, 06 Jan 2022 14:38:56 GMT</pubDate>
-            <content:encoded><![CDATA[2021.11.28.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[네이버 인디극장 : 우리 구면 아닌가요?] '떨어져 있어야 가족이다' 김현]]></title>
-            <link>https://www.vlive.tv/post/0-26617808</link>
-            <guid>https://www.vlive.tv/post/0-26617808</guid>
-            <pubDate>Thu, 06 Jan 2022 14:38:56 GMT</pubDate>
-            <content:encoded><![CDATA[2021.11.28.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[네이버 인디극장 : 우리 구면 아닌가요?] '능력소녀' 김수영]]></title>
-            <link>https://www.vlive.tv/post/0-26617571</link>
-            <guid>https://www.vlive.tv/post/0-26617571</guid>
-            <pubDate>Thu, 06 Jan 2022 14:38:56 GMT</pubDate>
-            <content:encoded><![CDATA[2021.11.28.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[네이버 인디극장 : 우리 구면 아닌가요?] '뎀프시롤:참회록' 정혁기X조현철]]></title>
-            <link>https://www.vlive.tv/post/1-26623456</link>
-            <guid>https://www.vlive.tv/post/1-26623456</guid>
-            <pubDate>Thu, 06 Jan 2022 14:38:56 GMT</pubDate>
-            <content:encoded><![CDATA[2021.11.28.]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA['킹메이커' 티저 예고편]]></title>
             <link>https://www.vlive.tv/post/1-26562267</link>
             <guid>https://www.vlive.tv/post/1-26562267</guid>
@@ -149,6 +114,41 @@
             <guid>https://www.vlive.tv/post/0-26417401</guid>
             <pubDate>Thu, 06 Jan 2022 14:38:56 GMT</pubDate>
             <content:encoded><![CDATA[2021.11.12.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA['킹메이커' 런칭예고편: 선거전쟁]]></title>
+            <link>https://www.vlive.tv/post/0-26413339</link>
+            <guid>https://www.vlive.tv/post/0-26413339</guid>
+            <pubDate>Wed, 02 Mar 2022 01:53:58 GMT</pubDate>
+            <content:encoded><![CDATA[2021.11.12.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[(예고) '장르만 로맨스' 무비토크 라이브]]></title>
+            <link>https://www.vlive.tv/post/1-26382461</link>
+            <guid>https://www.vlive.tv/post/1-26382461</guid>
+            <pubDate>Wed, 02 Mar 2022 01:53:58 GMT</pubDate>
+            <content:encoded><![CDATA[2021.11.9.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA['타임 이즈 업' 10분 하이라이트]]></title>
+            <link>https://www.vlive.tv/post/0-26293689</link>
+            <guid>https://www.vlive.tv/post/0-26293689</guid>
+            <pubDate>Wed, 02 Mar 2022 01:53:58 GMT</pubDate>
+            <content:encoded><![CDATA[2021.11.3.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA['모비우스' 2차 예고편]]></title>
+            <link>https://www.vlive.tv/post/1-26297745</link>
+            <guid>https://www.vlive.tv/post/1-26297745</guid>
+            <pubDate>Wed, 02 Mar 2022 01:53:58 GMT</pubDate>
+            <content:encoded><![CDATA[2021.11.3.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[(FULL) '연애 빠진 로맨스' 무비토크 라이브]]></title>
+            <link>https://www.vlive.tv/post/1-26183044</link>
+            <guid>https://www.vlive.tv/post/1-26183044</guid>
+            <pubDate>Wed, 02 Mar 2022 01:53:58 GMT</pubDate>
+            <content:encoded><![CDATA[2021.11.2.]]></content:encoded>
         </item>
     </channel>
 </rss>
