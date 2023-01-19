@@ -4,14 +4,14 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 19 Jan 2023 22:04:28 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 19 Jan 2023 23:06:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
             <title><![CDATA[(FULL) 제20회 디렉터스컷 어워즈 (V MOVIE)]]></title>
             <link>https://www.vlive.tv/post/1-27947054</link>
             <guid>https://www.vlive.tv/post/1-27947054</guid>
-            <pubDate>Wed, 24 Aug 2022 09:05:01 GMT</pubDate>
+            <pubDate>Wed, 20 Apr 2022 08:47:36 GMT</pubDate>
             <content:encoded><![CDATA[2.28.]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220228_180/1646018422216UIiJm_JPEG/upload_9009815763024365808a52075-65b1-48dc-8d2f-9b629e68c3a5.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
@@ -19,7 +19,7 @@
             <title><![CDATA[(FULL) '디렉터스 체어' 스페셜 토크 '감독들이 뽑은 최고의 영화5편' (V MOVIE)]]></title>
             <link>https://www.vlive.tv/post/1-27947302</link>
             <guid>https://www.vlive.tv/post/1-27947302</guid>
-            <pubDate>Wed, 24 Aug 2022 09:05:01 GMT</pubDate>
+            <pubDate>Wed, 20 Apr 2022 08:47:36 GMT</pubDate>
             <content:encoded><![CDATA[2.21.]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220221_86/164540549942732rxO_JPEG/upload_894852208030838800b0ff15d-6231-4334-bca6-8907c4d396eb.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
@@ -27,7 +27,7 @@
             <title><![CDATA[(FULL) '디렉터스 체어' 스페셜 토크 '감독들이 뽑은 최고의 시리즈5편' (V MOVIE)]]></title>
             <link>https://www.vlive.tv/post/0-27940576</link>
             <guid>https://www.vlive.tv/post/0-27940576</guid>
-            <pubDate>Wed, 24 Aug 2022 09:05:01 GMT</pubDate>
+            <pubDate>Wed, 20 Apr 2022 08:47:36 GMT</pubDate>
             <content:encoded><![CDATA[2.18.]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220218_259/1645150761598e3z8x_JPEG/5619a761-905e-11ec-be77-a0369ff963bc_07.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
@@ -35,263 +35,120 @@
             <title><![CDATA[(FULL) '해적: 도깨비 깃발' 무비토크 라이브 (V MOVIE)]]></title>
             <link>https://www.vlive.tv/post/0-27418884</link>
             <guid>https://www.vlive.tv/post/0-27418884</guid>
-            <pubDate>Wed, 24 Aug 2022 09:05:01 GMT</pubDate>
+            <pubDate>Wed, 20 Apr 2022 08:47:36 GMT</pubDate>
             <content:encoded><![CDATA[1.19.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[(예고) '해적: 도깨비 깃발' 무비토크 라이브 (V MOVIE)]]></title>
             <link>https://www.vlive.tv/post/0-27410995</link>
             <guid>https://www.vlive.tv/post/0-27410995</guid>
-            <pubDate>Wed, 24 Aug 2022 09:05:01 GMT</pubDate>
+            <pubDate>Wed, 20 Apr 2022 08:47:36 GMT</pubDate>
             <content:encoded><![CDATA[1.14.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[(FULL) '킹메이커' 무비토크 라이브 (V MOVIE)]]></title>
             <link>https://www.vlive.tv/post/0-26878495</link>
             <guid>https://www.vlive.tv/post/0-26878495</guid>
-            <pubDate>Wed, 24 Aug 2022 09:05:01 GMT</pubDate>
+            <pubDate>Wed, 20 Apr 2022 08:47:36 GMT</pubDate>
             <content:encoded><![CDATA[2021.12.22.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA['하우스 오브 구찌' 메인 예고편 (V MOVIE)]]></title>
             <link>https://www.vlive.tv/post/1-27026773</link>
             <guid>https://www.vlive.tv/post/1-27026773</guid>
-            <pubDate>Wed, 24 Aug 2022 09:05:01 GMT</pubDate>
+            <pubDate>Wed, 20 Apr 2022 08:47:36 GMT</pubDate>
             <content:encoded><![CDATA[2021.12.21.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA['언차티드' 1차 예고편 (V MOVIE)]]></title>
             <link>https://www.vlive.tv/post/0-27006690</link>
             <guid>https://www.vlive.tv/post/0-27006690</guid>
-            <pubDate>Wed, 24 Aug 2022 09:05:01 GMT</pubDate>
+            <pubDate>Wed, 20 Apr 2022 08:47:36 GMT</pubDate>
             <content:encoded><![CDATA[2021.12.20.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA['특송' 끝장 추격 캐릭터 예고편 (V MOVIE)]]></title>
             <link>https://www.vlive.tv/post/0-26960201</link>
             <guid>https://www.vlive.tv/post/0-26960201</guid>
-            <pubDate>Wed, 24 Aug 2022 09:05:01 GMT</pubDate>
+            <pubDate>Wed, 20 Apr 2022 08:47:36 GMT</pubDate>
             <content:encoded><![CDATA[2021.12.16.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA['피부를 판 남자' 10분 하이라이트 (V MOVIE)]]></title>
             <link>https://www.vlive.tv/post/1-26936208</link>
             <guid>https://www.vlive.tv/post/1-26936208</guid>
-            <pubDate>Wed, 24 Aug 2022 09:05:01 GMT</pubDate>
+            <pubDate>Wed, 20 Apr 2022 08:47:36 GMT</pubDate>
             <content:encoded><![CDATA[2021.12.14.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[(예고) '킹메이커' 무비토크 라이브 (V MOVIE)]]></title>
             <link>https://www.vlive.tv/post/0-26843122</link>
             <guid>https://www.vlive.tv/post/0-26843122</guid>
-            <pubDate>Wed, 24 Aug 2022 09:05:01 GMT</pubDate>
+            <pubDate>Wed, 20 Apr 2022 08:47:36 GMT</pubDate>
             <content:encoded><![CDATA[2021.12.10.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA['킹메이커' 티저 예고편 (V MOVIE)]]></title>
             <link>https://www.vlive.tv/post/1-26562267</link>
             <guid>https://www.vlive.tv/post/1-26562267</guid>
-            <pubDate>Wed, 24 Aug 2022 09:05:01 GMT</pubDate>
+            <pubDate>Wed, 20 Apr 2022 08:47:36 GMT</pubDate>
             <content:encoded><![CDATA[2021.11.22.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[(FULL) '장르만 로맨스' 무비토크 라이브 (V MOVIE)]]></title>
             <link>https://www.vlive.tv/post/1-26382701</link>
             <guid>https://www.vlive.tv/post/1-26382701</guid>
-            <pubDate>Wed, 24 Aug 2022 09:05:01 GMT</pubDate>
+            <pubDate>Wed, 20 Apr 2022 08:47:36 GMT</pubDate>
             <content:encoded><![CDATA[2021.11.17.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA['스파이더맨: 노 웨이 홈' 2차 예고편 (V MOVIE)]]></title>
             <link>https://www.vlive.tv/post/0-26484458</link>
             <guid>https://www.vlive.tv/post/0-26484458</guid>
-            <pubDate>Wed, 24 Aug 2022 09:05:01 GMT</pubDate>
+            <pubDate>Wed, 20 Apr 2022 08:47:36 GMT</pubDate>
             <content:encoded><![CDATA[2021.11.17.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[(예고) '유체이탈자' 무비토크 라이브 (V MOVIE)]]></title>
             <link>https://www.vlive.tv/post/0-26417401</link>
             <guid>https://www.vlive.tv/post/0-26417401</guid>
-            <pubDate>Wed, 24 Aug 2022 09:05:01 GMT</pubDate>
+            <pubDate>Wed, 20 Apr 2022 08:47:36 GMT</pubDate>
             <content:encoded><![CDATA[2021.11.12.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA['킹메이커' 런칭예고편: 선거전쟁 (V MOVIE)]]></title>
             <link>https://www.vlive.tv/post/0-26413339</link>
             <guid>https://www.vlive.tv/post/0-26413339</guid>
-            <pubDate>Wed, 24 Aug 2022 09:05:01 GMT</pubDate>
+            <pubDate>Wed, 20 Apr 2022 08:47:36 GMT</pubDate>
             <content:encoded><![CDATA[2021.11.12.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[(예고) '장르만 로맨스' 무비토크 라이브 (V MOVIE)]]></title>
             <link>https://www.vlive.tv/post/1-26382461</link>
             <guid>https://www.vlive.tv/post/1-26382461</guid>
-            <pubDate>Wed, 24 Aug 2022 09:05:01 GMT</pubDate>
+            <pubDate>Wed, 20 Apr 2022 08:47:36 GMT</pubDate>
             <content:encoded><![CDATA[2021.11.9.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA['타임 이즈 업' 10분 하이라이트 (V MOVIE)]]></title>
             <link>https://www.vlive.tv/post/0-26293689</link>
             <guid>https://www.vlive.tv/post/0-26293689</guid>
-            <pubDate>Wed, 24 Aug 2022 09:05:01 GMT</pubDate>
+            <pubDate>Wed, 20 Apr 2022 08:47:36 GMT</pubDate>
             <content:encoded><![CDATA[2021.11.3.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA['모비우스' 2차 예고편 (V MOVIE)]]></title>
             <link>https://www.vlive.tv/post/1-26297745</link>
             <guid>https://www.vlive.tv/post/1-26297745</guid>
-            <pubDate>Wed, 24 Aug 2022 09:05:01 GMT</pubDate>
+            <pubDate>Wed, 20 Apr 2022 08:47:36 GMT</pubDate>
             <content:encoded><![CDATA[2021.11.3.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[(FULL) '연애 빠진 로맨스' 무비토크 라이브 (V MOVIE)]]></title>
             <link>https://www.vlive.tv/post/1-26183044</link>
             <guid>https://www.vlive.tv/post/1-26183044</guid>
-            <pubDate>Wed, 24 Aug 2022 09:05:01 GMT</pubDate>
+            <pubDate>Wed, 20 Apr 2022 08:47:36 GMT</pubDate>
             <content:encoded><![CDATA[2021.11.2.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[(FULL) 제20회 디렉터스컷 어워즈 (V SCREEN)]]></title>
-            <link>https://www.vlive.tv/post/1-27947054</link>
-            <guid>https://www.vlive.tv/post/1-27947054</guid>
-            <pubDate>Wed, 24 Aug 2022 09:05:01 GMT</pubDate>
-            <content:encoded><![CDATA[2.28.]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220228_180/1646018422216UIiJm_JPEG/upload_9009815763024365808a52075-65b1-48dc-8d2f-9b629e68c3a5.jpg?type=f359x202" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[(FULL) '디렉터스 체어' 스페셜 토크 '감독들이 뽑은 최고의 영화5편' (V SCREEN)]]></title>
-            <link>https://www.vlive.tv/post/1-27947302</link>
-            <guid>https://www.vlive.tv/post/1-27947302</guid>
-            <pubDate>Wed, 24 Aug 2022 09:05:01 GMT</pubDate>
-            <content:encoded><![CDATA[2.21.]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220221_86/164540549942732rxO_JPEG/upload_894852208030838800b0ff15d-6231-4334-bca6-8907c4d396eb.jpg?type=f359x202" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[(FULL) '디렉터스 체어' 스페셜 토크 '감독들이 뽑은 최고의 시리즈5편' (V SCREEN)]]></title>
-            <link>https://www.vlive.tv/post/0-27940576</link>
-            <guid>https://www.vlive.tv/post/0-27940576</guid>
-            <pubDate>Wed, 24 Aug 2022 09:05:01 GMT</pubDate>
-            <content:encoded><![CDATA[2.18.]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220218_259/1645150761598e3z8x_JPEG/5619a761-905e-11ec-be77-a0369ff963bc_07.jpg?type=f359x202" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[(FULL) '해적: 도깨비 깃발' 무비토크 라이브 (V SCREEN)]]></title>
-            <link>https://www.vlive.tv/post/0-27418884</link>
-            <guid>https://www.vlive.tv/post/0-27418884</guid>
-            <pubDate>Wed, 24 Aug 2022 09:05:01 GMT</pubDate>
-            <content:encoded><![CDATA[1.19.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[(예고) '해적: 도깨비 깃발' 무비토크 라이브 (V SCREEN)]]></title>
-            <link>https://www.vlive.tv/post/0-27410995</link>
-            <guid>https://www.vlive.tv/post/0-27410995</guid>
-            <pubDate>Wed, 24 Aug 2022 09:05:01 GMT</pubDate>
-            <content:encoded><![CDATA[1.14.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[(FULL) '킹메이커' 무비토크 라이브 (V SCREEN)]]></title>
-            <link>https://www.vlive.tv/post/0-26878495</link>
-            <guid>https://www.vlive.tv/post/0-26878495</guid>
-            <pubDate>Wed, 24 Aug 2022 09:05:01 GMT</pubDate>
-            <content:encoded><![CDATA[2021.12.22.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[(예고) '킹메이커' 무비토크 라이브 (V SCREEN)]]></title>
-            <link>https://www.vlive.tv/post/0-26843122</link>
-            <guid>https://www.vlive.tv/post/0-26843122</guid>
-            <pubDate>Wed, 24 Aug 2022 09:05:01 GMT</pubDate>
-            <content:encoded><![CDATA[2021.12.10.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[(FULL) '장르만 로맨스' 무비토크 라이브 (V SCREEN)]]></title>
-            <link>https://www.vlive.tv/post/1-26382701</link>
-            <guid>https://www.vlive.tv/post/1-26382701</guid>
-            <pubDate>Wed, 24 Aug 2022 09:05:01 GMT</pubDate>
-            <content:encoded><![CDATA[2021.11.17.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[(예고) '유체이탈자' 무비토크 라이브 (V SCREEN)]]></title>
-            <link>https://www.vlive.tv/post/0-26417401</link>
-            <guid>https://www.vlive.tv/post/0-26417401</guid>
-            <pubDate>Wed, 24 Aug 2022 09:05:01 GMT</pubDate>
-            <content:encoded><![CDATA[2021.11.12.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[(예고) '장르만 로맨스' 무비토크 라이브 (V SCREEN)]]></title>
-            <link>https://www.vlive.tv/post/1-26382461</link>
-            <guid>https://www.vlive.tv/post/1-26382461</guid>
-            <pubDate>Wed, 24 Aug 2022 09:05:01 GMT</pubDate>
-            <content:encoded><![CDATA[2021.11.9.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[(FULL) '연애 빠진 로맨스' 무비토크 라이브 (V SCREEN)]]></title>
-            <link>https://www.vlive.tv/post/1-26183044</link>
-            <guid>https://www.vlive.tv/post/1-26183044</guid>
-            <pubDate>Wed, 24 Aug 2022 09:05:01 GMT</pubDate>
-            <content:encoded><![CDATA[2021.11.2.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[(예고) '연애 빠진 로맨스' 무비토크 라이브 (V SCREEN)]]></title>
-            <link>https://www.vlive.tv/post/1-26223751</link>
-            <guid>https://www.vlive.tv/post/1-26223751</guid>
-            <pubDate>Wed, 24 Aug 2022 09:05:16 GMT</pubDate>
-            <content:encoded><![CDATA[2021.10.29.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[(FULL) '강릉' 무비토크 라이브 (V SCREEN)]]></title>
-            <link>https://www.vlive.tv/post/0-26088783</link>
-            <guid>https://www.vlive.tv/post/0-26088783</guid>
-            <pubDate>Wed, 24 Aug 2022 09:05:16 GMT</pubDate>
-            <content:encoded><![CDATA[2021.10.27.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[(예고) '강릉' 무비토크 라이브 (V SCREEN)]]></title>
-            <link>https://www.vlive.tv/post/0-26088725</link>
-            <guid>https://www.vlive.tv/post/0-26088725</guid>
-            <pubDate>Wed, 24 Aug 2022 09:05:16 GMT</pubDate>
-            <content:encoded><![CDATA[2021.10.21.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[(FULL) '2021 부일영화상' 부일영화상 시상식 (V SCREEN)]]></title>
-            <link>https://www.vlive.tv/post/1-25793825</link>
-            <guid>https://www.vlive.tv/post/1-25793825</guid>
-            <pubDate>Wed, 24 Aug 2022 09:05:16 GMT</pubDate>
-            <content:encoded><![CDATA[2021.10.15.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[(FULL) '2021 부일영화상' 핸드프리팅 & 레드카펫 (V SCREEN)]]></title>
-            <link>https://www.vlive.tv/post/0-25786399</link>
-            <guid>https://www.vlive.tv/post/0-25786399</guid>
-            <pubDate>Wed, 24 Aug 2022 09:05:16 GMT</pubDate>
-            <content:encoded><![CDATA[2021.10.15.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[(FULL) '2021 부일영화상' 올해의 스타와의 토크 (V SCREEN)]]></title>
-            <link>https://www.vlive.tv/post/0-25786384</link>
-            <guid>https://www.vlive.tv/post/0-25786384</guid>
-            <pubDate>Wed, 24 Aug 2022 09:05:16 GMT</pubDate>
-            <content:encoded><![CDATA[2021.10.15.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[(FULL) 이동진 평론가 X 이혜성 아나운서 '라스트 듀얼: 최후의 결투' 무비토크 (V SCREEN)]]></title>
-            <link>https://www.vlive.tv/post/1-25794477</link>
-            <guid>https://www.vlive.tv/post/1-25794477</guid>
-            <pubDate>Wed, 24 Aug 2022 09:05:16 GMT</pubDate>
-            <content:encoded><![CDATA[2021.10.12.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[(FULL) '기적'배 장학퀴즈! 무비토크 라이브 (V SCREEN)]]></title>
-            <link>https://www.vlive.tv/post/1-25001517</link>
-            <guid>https://www.vlive.tv/post/1-25001517</guid>
-            <pubDate>Wed, 24 Aug 2022 09:05:16 GMT</pubDate>
-            <content:encoded><![CDATA[2021.9.9.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[(FULL) '보이스' 무비토크 라이브 (V SCREEN)]]></title>
-            <link>https://www.vlive.tv/post/0-24961828</link>
-            <guid>https://www.vlive.tv/post/0-24961828</guid>
-            <pubDate>Wed, 24 Aug 2022 09:05:16 GMT</pubDate>
-            <content:encoded><![CDATA[2021.9.3.]]></content:encoded>
         </item>
     </channel>
 </rss>
